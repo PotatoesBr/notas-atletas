@@ -60,3 +60,5 @@ Nota Final: ${media}`
 };
 
 // FAZER PELO CELULAR FOI DIFICIL E DEMORADO S2
+// Fonte de pesquisa de codigos que usei de ajuda neste projeto 
+//https://www.alura.com.br/artigos/ordenacao-de-numeros-no-javascript-nao-funciona?gclid=CjwKCAiA68ebBhB-EiwALVC-NvjUEnY7KsRDYjKp4c-AzhO5N_I7TQVc8hnb1Vi4Qqieg8ug-IE4XhoCuyQQAvD_BwE    
